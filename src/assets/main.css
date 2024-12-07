@@ -1,0 +1,22 @@
+:root{
+  background-color: rgb(12, 12, 12);
+}
+
+.wrapper-cara{
+  overflow: hidden;
+  border: 2px solid white;
+}
+
+.karakter{
+  background-image: url('king.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70px;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 0;
+}
+.classObject{
+  color: red;
+}
